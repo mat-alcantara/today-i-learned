@@ -13,3 +13,4 @@ This is a project made by me to compile things that I am learning. It'll compile
 - 04/19/2020: [Reverse an integer](./codes/reverseNumbers.js)
 - 04/19/2020: [Create a linked list](./codes/createLinkedList.js)
 - 04/19/2020: [Linkedin: LeetCode 002: Add Two Numbers [Javascript]](https://www.linkedin.com/pulse/leetcode-002-add-two-numbers-javascript-mateus-alcantara/?articleId=6657600661162598400#comments-6657600661162598400&trk=public_profile-settings_article_view)
+- 04/19/2020: [Git commit styleguide](http://udacity.github.io/git-styleguide/)
