@@ -15,3 +15,4 @@ This is a project made by me to compile things that I am learning. It'll compile
 - 04/19/2020: [Linkedin: LeetCode 002: Add Two Numbers [Javascript]](https://www.linkedin.com/pulse/leetcode-002-add-two-numbers-javascript-mateus-alcantara/?articleId=6657600661162598400#comments-6657600661162598400&trk=public_profile-settings_article_view)
 - 04/19/2020: [Git commit styleguide](http://udacity.github.io/git-styleguide/)
 - 04/21/2020: [Github Project: Book Tracking App](https://github.com/mat-alcantara/book-tracking-app)
+- 04/22/2020: [How often should I commit](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
