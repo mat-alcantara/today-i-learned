@@ -4,7 +4,7 @@ This is a project made by me to compile things that I am learning. It'll compile
 
 ## How to find me:
 
-- [Linkedin](linkedin.com/in/mateus-alcantara-2b102218a)
+- [Linkedin](https://linkedin.com/in/mateus-alcantara-2b102218a)
 - [Medium](https://medium.com/@mateuscastro.al)
 
 ## Today I Learned:
