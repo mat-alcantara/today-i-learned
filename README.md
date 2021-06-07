@@ -14,3 +14,4 @@ This is a project made by me to compile things that I am learning. It'll compile
 - 03/06/2021: Inicio do repositório
 - 04/06/2021: Utilizar um state de loading para retornar uma página enquanto os dados da API são carregados. Isso evita que o componente renderize antes que os dados necessários para que ele funcione sejam carregados.
 - 04/06/2021: Para mudar a margin do Menu do Ant Design é necessário utilizar um !important.
+- 07/06/2021: Grid responsível do Ant Design buga caso não sejam especificados todos os tamanhos
